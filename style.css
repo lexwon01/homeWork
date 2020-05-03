@@ -2,7 +2,6 @@ body {
     background: #fefefe;
 }
 
-
 .navigation {
     background: #e2e6e9;
     box-shadow: 2px 2px 24px -2px #35383d33;
@@ -25,10 +24,30 @@ body {
     text-shadow: 3px 3px 0 #fefefe;
 }
 
+.subHeading {
+    background: #e2e6e9;
+    color: red;
+    box-shadow: 2px 2px 24px -2px #35383d33;
+    border-radius: 8px;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-family: lazer84;
+    text-shadow: 3px 3px 0 #fefefe;
+}
+
 .logo {
     max-width: 300px;
     margin: 20px;
+    border-radius: 15% 50% 15% 50%;
 }
+
+.dayPic {
+    max-width: 300px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
 .section {
     background: #e2e6e9;
     margin: 20px;
@@ -37,7 +56,7 @@ body {
     border-radius: 8px;
 }
 
-.sectionHeading{
+.sectionHeading {
     color: #1460aa;
 }
 
